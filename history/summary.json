@@ -40,9 +40,9 @@
     "url": "https://www.homesampling.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.homesampling.ch.ico",
     "slug": "home-sampling-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1257,
     "timeMonth": 1257,
     "timeYear": 1257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-15": 0
+    }
   },
   {
     "name": "Home Sampling App",
