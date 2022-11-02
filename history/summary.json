@@ -24,10 +24,10 @@
     "url": "https://app.rikai.ch",
     "icon": "https://icons.duckduckgo.com/ip3/app.rikai.ch.ico",
     "slug": "rikai-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
@@ -35,7 +35,9 @@
     "timeWeek": 694,
     "timeMonth": 671,
     "timeYear": 671,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-02": 1
+    }
   },
   {
     "name": "Home Sampling Website",
@@ -62,9 +64,9 @@
     "url": "https://app.rikai.ch",
     "icon": "https://icons.duckduckgo.com/ip3/app.rikai.ch.ico",
     "slug": "home-sampling-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +75,9 @@
     "timeWeek": 118,
     "timeMonth": 120,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-02": 0
+    }
   },
   {
     "name": "Invenimus Website",
