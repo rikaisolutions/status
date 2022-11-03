@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rikai.ch.ico",
     "slug": "rikai-website",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "97.10%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 3037,
-    "timeDay": 3874,
-    "timeWeek": 3227,
-    "timeMonth": 3037,
-    "timeYear": 3037,
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 3055,
+    "timeDay": 3467,
+    "timeWeek": 3385,
+    "timeMonth": 3055,
+    "timeYear": 3055,
     "dailyMinutesDown": {
       "2022-11-02": 42
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.rikai.ch.ico",
     "slug": "rikai-app",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 667,
-    "timeDay": 747,
-    "timeWeek": 675,
-    "timeMonth": 667,
-    "timeYear": 667,
-    "dailyMinutesDown": {
-      "2022-11-02": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 670,
+    "timeDay": 658,
+    "timeWeek": 685,
+    "timeMonth": 670,
+    "timeYear": 670,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Home Sampling Website",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1212,
-    "timeDay": 2000,
-    "timeWeek": 1227,
-    "timeMonth": 1212,
-    "timeYear": 1212,
+    "time": 1221,
+    "timeDay": 1476,
+    "timeWeek": 1248,
+    "timeMonth": 1221,
+    "timeYear": 1221,
     "dailyMinutesDown": {
       "2022-10-15": 21
     }
@@ -65,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.rikai.ch.ico",
     "slug": "home-sampling-app",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 129,
-    "timeWeek": 116,
+    "timeDay": 102,
+    "timeWeek": 114,
     "timeMonth": 119,
     "timeYear": 119,
-    "dailyMinutesDown": {
-      "2022-11-02": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Invenimus Website",
@@ -90,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 1322,
-    "timeWeek": 1285,
-    "timeMonth": 1209,
-    "timeYear": 1209,
+    "time": 1231,
+    "timeDay": 1813,
+    "timeWeek": 1380,
+    "timeMonth": 1231,
+    "timeYear": 1231,
     "dailyMinutesDown": {}
   }
 ]
