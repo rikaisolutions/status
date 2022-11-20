@@ -82,19 +82,19 @@
     "url": "https://www.invenimus.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.invenimus.ch.ico",
     "slug": "invenimus-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1212,
-    "timeDay": 895,
-    "timeWeek": 1166,
-    "timeMonth": 1225,
-    "timeYear": 1212,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1205,
+    "timeDay": 880,
+    "timeWeek": 1129,
+    "timeMonth": 1214,
+    "timeYear": 1205,
     "dailyMinutesDown": {
-      "2022-11-20": 0
+      "2022-11-20": 11
     }
   }
 ]
