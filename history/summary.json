@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.77%",
-    "time": 3043,
-    "timeDay": 3439,
-    "timeWeek": 3022,
-    "timeMonth": 3015,
-    "timeYear": 3043,
+    "time": 3012,
+    "timeDay": 1585,
+    "timeWeek": 2911,
+    "timeMonth": 2961,
+    "timeYear": 3012,
     "dailyMinutesDown": {
       "2022-11-10": 94,
       "2022-11-02": 42
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 565,
-    "timeWeek": 602,
-    "timeMonth": 671,
-    "timeYear": 669,
+    "time": 668,
+    "timeDay": 627,
+    "timeWeek": 592,
+    "timeMonth": 665,
+    "timeYear": 668,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
-    "time": 1223,
-    "timeDay": 1021,
-    "timeWeek": 1215,
-    "timeMonth": 1223,
-    "timeYear": 1223,
+    "time": 1216,
+    "timeDay": 909,
+    "timeWeek": 1109,
+    "timeMonth": 1198,
+    "timeYear": 1216,
     "dailyMinutesDown": {
       "2022-11-12": 28,
       "2022-10-15": 21
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 101,
-    "timeWeek": 109,
-    "timeMonth": 119,
+    "timeDay": 102,
+    "timeWeek": 107,
+    "timeMonth": 118,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -83,18 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.invenimus.ch.ico",
     "slug": "invenimus-website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1205,
-    "timeDay": 880,
-    "timeWeek": 1129,
-    "timeMonth": 1214,
-    "timeYear": 1205,
-    "dailyMinutesDown": {
-      "2022-11-20": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1198,
+    "timeDay": 876,
+    "timeWeek": 1032,
+    "timeMonth": 1197,
+    "timeYear": 1198,
+    "dailyMinutesDown": {}
   }
 ]
