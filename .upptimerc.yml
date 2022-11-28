@@ -2,9 +2,11 @@
 owner: rikaisolutions # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
+delay: 2000
 sites:
   - name: Rikai Website
     url: https://www.rikai.ch
+    __dangerous__insecure: true
   - name: Rikai App
     url: https://app.rikai.ch
   - name: Home Sampling Website
