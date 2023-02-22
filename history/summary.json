@@ -4,9 +4,9 @@
     "url": "https://www.rikai.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.rikai.ch.ico",
     "slug": "rikai-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "98.68%",
+    "uptimeDay": "99.69%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.67%",
@@ -16,6 +16,7 @@
     "timeMonth": 1088,
     "timeYear": 2092,
     "dailyMinutesDown": {
+      "2023-02-22": 0,
       "2023-02-21": 19,
       "2023-01-25": 43,
       "2023-01-11": 22,
@@ -106,7 +107,7 @@
     "time": 1265,
     "timeDay": 900,
     "timeWeek": 1044,
-    "timeMonth": 1346,
+    "timeMonth": 1356,
     "timeYear": 1265,
     "dailyMinutesDown": {
       "2023-01-25": 17,
