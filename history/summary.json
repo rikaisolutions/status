@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 1443,
-    "timeDay": 1360,
-    "timeWeek": 1210,
-    "timeMonth": 1100,
-    "timeYear": 1230,
+    "uptimeYear": "99.97%",
+    "time": 1445,
+    "timeDay": 2354,
+    "timeWeek": 1354,
+    "timeMonth": 1143,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2023-08-10": 19,
       "2023-03-21": 18,
@@ -37,9 +37,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
     "time": 888,
-    "timeDay": 919,
-    "timeWeek": 1054,
-    "timeMonth": 817,
+    "timeDay": 764,
+    "timeWeek": 1047,
+    "timeMonth": 825,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2023-11-22": 19,
@@ -60,20 +60,19 @@
     "slug": "home-sampling-website",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "94.13%",
+    "uptimeDay": "99.42%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.95%",
     "time": 1293,
-    "timeDay": 1074,
-    "timeWeek": 1685,
-    "timeMonth": 1420,
-    "timeYear": 1307,
+    "timeDay": 1003,
+    "timeWeek": 1617,
+    "timeMonth": 1426,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2023-11-28": 85,
       "2023-11-09": 115,
-      "2023-01-25": 40,
-      "2022-11-29": 20
+      "2023-01-25": 40
     }
   },
   {
@@ -88,9 +87,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 173,
-    "timeDay": 150,
-    "timeWeek": 122,
-    "timeMonth": 147,
+    "timeDay": 114,
+    "timeWeek": 118,
+    "timeMonth": 148,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2023-11-22": 19,
@@ -114,13 +113,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1219,
-    "timeDay": 1077,
-    "timeWeek": 1252,
-    "timeMonth": 1150,
-    "timeYear": 1224,
+    "timeDay": 965,
+    "timeWeek": 1240,
+    "timeMonth": 1132,
+    "timeYear": 1223,
     "dailyMinutesDown": {
-      "2023-01-25": 17,
-      "2022-11-29": 20
+      "2023-01-25": 17
     }
   }
 ]
