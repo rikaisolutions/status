@@ -14,7 +14,7 @@
     "timeDay": 2232,
     "timeWeek": 2385,
     "timeMonth": 2324,
-    "timeYear": 1524,
+    "timeYear": 1527,
     "dailyMinutesDown": {
       "2024-01-08": 48,
       "2023-12-05": 21,
@@ -51,18 +51,19 @@
     "url": "https://www.homesampling.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.homesampling.ch.ico",
     "slug": "home-sampling-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1312,
+    "time": 1313,
     "timeDay": 777,
     "timeWeek": 1070,
     "timeMonth": 1341,
     "timeYear": 1319,
     "dailyMinutesDown": {
+      "2024-03-21": 0,
       "2023-11-28": 85,
       "2023-11-09": 115
     }
