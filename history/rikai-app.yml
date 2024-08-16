@@ -1,7 +1,7 @@
 url: https://app.rikai.ch
-status: down
-code: 502
-responseTime: 20020
-lastUpdated: 2024-08-16T23:15:08.243Z
+status: up
+code: 200
+responseTime: 604
+lastUpdated: 2024-08-16T23:27:35.059Z
 startTime: 2022-10-10T13:06:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
