@@ -9,12 +9,6 @@ sites:
     __dangerous__insecure: true
   - name: Rikai App
     url: https://app.rikai.ch
-  - name: Home Sampling Website
-    url: https://www.homesampling.ch
-  - name: Home Sampling App
-    url: https://app.rikai.ch
-  - name: Invenimus Website
-    url: https://www.invenimus.ch
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
