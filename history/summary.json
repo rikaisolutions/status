@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 2515,
-    "timeDay": 1803,
-    "timeWeek": 1906,
-    "timeMonth": 1840,
-    "timeYear": 2469,
+    "time": 2514,
+    "timeDay": 1767,
+    "timeWeek": 1831,
+    "timeMonth": 1830,
+    "timeYear": 2466,
     "dailyMinutesDown": {
       "2025-08-01": 138,
       "2025-07-03": 72,
@@ -38,15 +38,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.rikai.ch.ico",
     "slug": "rikai-app",
     "status": "up",
-    "uptime": "82.90%",
+    "uptime": "82.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.50%",
-    "time": 729,
-    "timeDay": 562,
-    "timeWeek": 645,
-    "timeMonth": 619,
+    "uptimeYear": "52.78%",
+    "time": 728,
+    "timeDay": 612,
+    "timeWeek": 617,
+    "timeMonth": 622,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-06-19": 129,
@@ -224,8 +224,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   }
 ]
